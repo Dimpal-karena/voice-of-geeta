@@ -14,5 +14,9 @@ namespace The_voice_of_geeta.Controllers
         {
             return View();
         }
+        public ActionResult Teachings()
+        {
+            return View();
+        }
     }
 }
